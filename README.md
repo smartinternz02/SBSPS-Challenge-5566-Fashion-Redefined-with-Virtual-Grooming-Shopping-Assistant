@@ -1,8 +1,8 @@
 # Fashion_redefined
 
-Drive link for demo vedio and other datasets :- https://drive.google.com/drive/folders/16poIRzZ9SKDvW28PLJnfgSgBGbHcQJ90?usp=sharing
+Drive link for demo video and other datasets :- https://drive.google.com/drive/folders/16poIRzZ9SKDvW28PLJnfgSgBGbHcQJ90?usp=sharing
 
-Demo vedio youtube link :- https://youtu.be/DYb6oFOfj5I
+Demo video youtube link :- https://youtu.be/DYb6oFOfj5I
 
 TEAM_NAME :- The_4_horsemen
 
@@ -21,4 +21,4 @@ Screen shots:-
 
 ![1630411718310](https://user-images.githubusercontent.com/68550464/131557429-3724c130-e3d9-49b6-af4f-8c2b56fae4fb.png)
 
-Demo vedio youtube link :- https://youtu.be/DYb6oFOfj5I
+Demo video youtube link :- https://youtu.be/DYb6oFOfj5I
